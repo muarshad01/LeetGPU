@@ -1,6 +1,6 @@
 ## LeetGPU
 
-My solutions to CUDA challenges on https://leetgpu.com/
+My solutions to CUDA challenges on [LeetGPU](https://leetgpu.com/)
 
 | Problem	 | Solution	| Difficulty | 
 |---|---|---|
