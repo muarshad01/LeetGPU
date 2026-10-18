@@ -4,4 +4,4 @@ My solutions to CUDA challenges on [LeetGPU](https://leetgpu.com/)
 
 | Problem	 | Solution	| Difficulty | 
 |---|---|---|
-| Vector Addition|	Link | 	Easy |
+| [Vector Addition](https://leetgpu.com/challenges/vector-addition) |	Link | 	Easy |
