@@ -5,8 +5,11 @@ My solutions to CUDA challenges on [LeetGPU](https://leetgpu.com/)
 | Problem	 | Solution	| Difficulty | Date |
 |---|---|---|---|
 | [Vector Addition](https://leetgpu.com/challenges/vector-addition) |	[Link](https://github.com/muarshad01/LeetGPU/blob/main/Solutions/vector_addition.cu) | 	Easy | Oct 18, 2026 | 
-| [Reverse Array](https://leetgpu.com/challenges/reverse-array) | [Link]() | Easy | Oct 19, 2026 |
+| [Reverse Array](https://leetgpu.com/challenges/reverse-array) | [Link](https://github.com/muarshad01/LeetGPU/blob/main/Solutions/reverse_array.cu)   | Easy | Oct 19, 2026 |
+
 ***
+
+
 
 #### [LeetGPU](https://leetgpu.com/)
 * https://github.com/rishisankar/leetgpu/tree/main
