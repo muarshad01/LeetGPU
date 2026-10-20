@@ -9,12 +9,15 @@ My solutions to CUDA challenges on [LeetGPU](https://leetgpu.com/)
 
 ***
 
-
-
 #### [LeetGPU](https://leetgpu.com/)
 * https://github.com/rishisankar/leetgpu/tree/main
 * https://github.com/dsl-learn/LeetGPU
 * https://github.com/lzyrapx/LeetGPU
 * https://github.com/unava1lable/leetgpu-solutions
+
+***
+
+#### Tensor Tonic
+* [TensorTonic](https://www.tensortonic.com/problems)
 
 ***
